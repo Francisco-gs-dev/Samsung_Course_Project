@@ -1,1 +1,0 @@
-datos_clima_limpio_para_red_neuronal.csv filter=lfs diff=lfs merge=lfs -text
